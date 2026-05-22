@@ -41,3 +41,9 @@ body {
 .section-kicker {
   letter-spacing: 0.12em;
 }
+
+@media (max-width: 640px) {
+  .owner-photo {
+    height: 430px;
+  }
+}
